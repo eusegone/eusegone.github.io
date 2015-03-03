@@ -5,7 +5,7 @@ locale: en_US
 description: Junior Full Stack Web Developer
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://eusegone.github.io
 
 # Jekyll configuration
 
